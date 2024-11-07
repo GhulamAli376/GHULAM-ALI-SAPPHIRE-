@@ -5,7 +5,6 @@
     box-sizing: border-box;
 }
 
-/* Existing Styles */
 .navigation-bar {
     margin-top: 10px;
     width: 99%;
@@ -137,23 +136,23 @@
 
 @keyframes coloranimation {
     0% {
-        background-image: url(hero-image1.webp);
+        background-image: url(./images/hero-image1.webp);
     }
 
     25% {
-        background-image: url(hero-image2.webp);
+        background-image: url(./images/hero-image2.webp);
     }
 
     50% {
-        background-image: url(hero-image3.webp);
+        background-image: url(./images/hero-image3.webp);
     }
 
     75% {
-        background-image: url(hero-image4.webp);
+        background-image: url(./images/hero-image4.webp);
     }
 
     100% {
-        background-image: url(hero-image5.webp);
+        background-image: url(./images/hero-image5.webp);
     }
 }
 
@@ -190,7 +189,7 @@ button:hover {
     height: 160px;
     width: 160px;
     border-radius: 50%;
-    background-image: url(first-box-image-1.avif);
+    background-image: url(./images/first-box-image-1.avif);
     background-size: cover;
     border: 2px solid #d7d4d4;
 }
@@ -210,7 +209,7 @@ h3 {
     height: 160px;
     width: 160px;
     border-radius: 50%;
-    background-image: url(first-box-image-2.avif);
+    background-image: url(./images/first-box-image-2.avif);
     background-size: cover;
     border: 2px solid #d7d4d4;
 }
@@ -219,7 +218,7 @@ h3 {
     height: 160px;
     width: 160px;
     border-radius: 50%;
-    background-image: url(first-box-image-3.avif);
+    background-image: url(./images/first-box-image-3.avif);
     background-size: cover;
     border: 2px solid #d7d4d4;
 }
@@ -228,7 +227,7 @@ h3 {
     height: 160px;
     width: 160px;
     border-radius: 50%;
-    background-image: url(first-box-image-4.avif);
+    background-image: url(./images/first-box-image-4.avif);
     background-size: cover;
     border: 2px solid #d7d4d4;
 }
@@ -237,7 +236,7 @@ h3 {
     height: 160px;
     width: 160px;
     border-radius: 50%;
-    background-image: url(first-box-image-5.avif);
+    background-image: url(./images/first-box-image-5.avif);
     background-size: cover;
     border: 2px solid #d7d4d4;
 }
@@ -246,7 +245,7 @@ h3 {
     height: 160px;
     width: 160px;
     border-radius: 50%;
-    background-image: url(first-box-image-6.avif);
+    background-image: url(./images/first-box-image-6.avif);
     background-size: cover;
     border: 2px solid #d7d4d4;
 }
@@ -298,7 +297,7 @@ h3 {
 
     height: 300px;
     width: 300px;
-    background-image: url(second-box-image2.webp);
+    background-image: url(./images/second-box-image2.webp);
     background-size: cover;
     margin-left: 10px;
 
@@ -319,7 +318,7 @@ h3 {
 .second-box-image3 {
     height: 300px;
     width: 300px;
-    background-image: url(second-box-image3.webp);
+    background-image: url(./images/second-box-image3.webp);
     background-size: cover;
     margin-left: 10px;
 }
@@ -327,7 +326,7 @@ h3 {
 .second-box-image4 {
     height: 300px;
     width: 300px;
-    background-image: url(second-box-image10.webp);
+    background-image: url(./images/second-box-image10.webp);
     background-size: cover;
     margin-left: 10px;
 }
@@ -335,7 +334,7 @@ h3 {
 .second-box-image5 {
     height: 300px;
     width: 300px;
-    background-image: url(second-box-image5.webp);
+    background-image: url(./images/second-box-image5.webp);
     background-size: cover;
     margin-left: 10px;
 }
